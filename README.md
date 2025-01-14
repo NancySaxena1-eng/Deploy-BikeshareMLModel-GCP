@@ -30,4 +30,3 @@ gcloud projects add-iam-policy-binding udemy-mlops \
 gcloud builds submit --region us-central1
 
 *This project was a part of udemy course by Sid Raghunath
-gcloud builds submit --region us-central1
